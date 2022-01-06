@@ -1,0 +1,1 @@
+# Attiration-rate-using-django
